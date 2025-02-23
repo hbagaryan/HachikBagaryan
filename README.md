@@ -1,21 +1,28 @@
-<h1>Hi, I'm Hacho, an <a href="https://www.linkedin.com/in/hachik-bagaryan/">IT Professional</a>☺</h1>
+# 💻 IT Professional | Business Professional Transitioning into Tech  
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+## 📚 Education & Certifications  
+- **CourseCareers IT Professional Education** ✅ *Completed*  
+- **CompTIA A+** *(In Progress)*  
+- **CompTIA Security+** ✅ *Achieved*  
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/hbagaryan/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/hbagaryan/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/hbagaryan/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/hbagaryan/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/hbagaryan/azure-network-protocols)
+## 🚀 About Me  
+I am a **business professional transitioning into IT**, a highly motivated individual with a passion for technology and problem-solving. I am actively learning every day to expand my skill set, build hands-on experience, and stay up-to-date with the latest industry trends. My background in **business operations and sales** gives me a unique perspective on IT solutions that enhance efficiency and customer satisfaction.  
 
-<h2>🤳Connect with me:</h2>
+---  
 
-[<img align="left" alt="Hachik | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Hachik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Hachik | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+## 🛠 IT Projects  
+### 1️⃣ osTicket (Help Desk Ticketing System)  
+- **osTicket: Prerequisites and Installation**  
+- **osTicket: Post-Installation Configuration**  
+- **osTicket: Ticket Lifecycle Examples**  
 
-[twitter]: https://x.com/HachoBagaryan
-[instagram]: https://www.instagram.com/hacho.bagaryan?igsh=MThlb2k0aTBwcnNzYQ%3D%3D&utm_source=qr 
-[linkedin]: https://www.linkedin.com/in/hachik-bagaryan/
+### 2️⃣ Microsoft Azure  
+- **Configuring On-Premises Active Directory within Azure VMs**  
+- **Network Security Groups (NSGs) and Inspecting Network Protocols**  
+
+---  
+
+## 🔗 Connect with Me  
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/YourUsername)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YourUsername)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YourUsername)  
