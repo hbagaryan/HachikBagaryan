@@ -12,7 +12,7 @@ I am a **business professional transitioning into IT**, a highly motivated indiv
 
 ## 🛠 IT Projects  
 ### 1️⃣ osTicket (Help Desk Ticketing System)  
-- **[osTicket: Prerequisites and Installation](https://github.com/YourUsername/osTicket-Prerequisites-Installation)**  
+- **[osTicket: Prerequisites and Installation](https://github.com/hbagaryan/osticket-prereqs)**  
 - **[osTicket: Post-Installation Configuration](https://github.com/YourUsername/osTicket-Post-Installation-Config)**  
 - **[osTicket: Ticket Lifecycle Examples](https://github.com/YourUsername/osTicket-Ticket-Lifecycle)**  
 
