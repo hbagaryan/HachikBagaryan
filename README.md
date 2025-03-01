@@ -16,10 +16,6 @@ I am a **business professional transitioning into IT**, a highly motivated indiv
 - **[osTicket: Post-Installation Configuration](https://github.com/hbagaryan/post-install-config)**  
 - **[osTicket: Ticket Lifecycle Examples](https://github.com/hbagaryan/ticket-lifecycle)**  
 
-### 2️⃣ Microsoft Azure  
-- **[Configuring On-Premises Active Directory within Azure VMs](https://github.com/hbagaryan/configure-ad)**  
-- **[Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/YourUsername/Azure-NSG-Network-Protocols)**  
-
 ---  
 
 ## 🔗 Connect with Me  
